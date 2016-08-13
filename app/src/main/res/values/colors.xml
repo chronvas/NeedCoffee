@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C7A5B</color>
+    <color name="colorPrimaryDark">#236149</color>
+    <color name="colorAccent">#C67363</color>
+    <color name="colorAccentDark">#7A2E1F</color>
+    <color name="colorAccentLight">#Eb9E92</color>
+    <color name="colorVenueName">#792e1f</color>
+    <color name="colorVenueAddress">#792e1f</color>
+</resources>

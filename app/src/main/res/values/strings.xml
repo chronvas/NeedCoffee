@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Need Coffee</string>
+    <string name="title_activity_maps">Need Coffee</string>
+    <string name="rationale_location" >This app needs your location to give you coffee</string>
+    <string name="current_location">CURRENT LOCATION</string>
+</resources>
